@@ -1,1 +1,0 @@
-Diese Datei sollte gelesen werden.
